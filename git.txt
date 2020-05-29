@@ -1,0 +1,8 @@
+1.git 使用
+  git config --global user.email "邮箱"
+  git config --global user.name "用户名"
+  git config --list 查看当前的配置信息
+  git init  初始化仓库，使用git来管理项目
+  git status 查看当前git仓库的状态
+  git add 文件名称 把工作目录中的文件天添加到暂行区
+  git commit -m 
